@@ -1,5 +1,5 @@
 # EMPLOYEE-INFORMATION-SYSTEM
-It is a mini project of EMPLOYEE INFORMATION SYSTEM using python programming language and pickling and unpickling cocept of file handling.
+It is a mini project of EMPLOYEE INFORMATION SYSTEM using python programming language and pickling and unpickling concept of file handling.
 The project contains the following.
 1. Add New Employee
 2. Delete Employee 
